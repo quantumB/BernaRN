@@ -1,0 +1,4 @@
+#Wed Apr 08 01:52:59 CDT 2020
+base.0=/Users/berna/BernaRN/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

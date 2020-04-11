@@ -1,0 +1,6 @@
+module Pods_BernaRN {
+  umbrella header "Pods-BernaRN-umbrella.h"
+
+  export *
+  module * { export * }
+}
